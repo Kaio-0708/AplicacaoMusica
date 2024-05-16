@@ -10,6 +10,7 @@ title (String): Title of the audio.
 totalReproductions (int): Total audio reproductions.
 totalLikes (int): Total audio likes.
 classification (int): Audio classification.
+<br>
 Methods:
 <br>
 getTitle(): Returns the title of the audio.
